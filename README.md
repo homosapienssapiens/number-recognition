@@ -12,7 +12,7 @@ Google human workers are able to manually register house numbers with an accurac
 *KNN
 
 The results were as follows:
-![Not normalized](url "Not normalized results - Assinment 2.png")
+![Not normalized]("Not normalized results - Assinment 2.png")
 Min - Max normalization were required. The results were as follows:
-![Normalized](url "Normalized results - Assinment 2.png")
+![Normalized]("Normalized results - Assinment 2.png")
 The 98% accuracy could not be met. Other models may be needed to reach the required accuracy. 
