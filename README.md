@@ -12,7 +12,7 @@ Google human workers are able to manually register house numbers with an accurac
 *KNN
 
 The results were as follows:<br/>
-![Not normalized](https://github.com/homosapienssapiens/number-recognition/blob/main/Not%20normalized%20results%20-%20Assinment%202.png "Not normalized results - Assinment 2.png")
+![Not normalized](https://github.com/homosapienssapiens/number-recognition/blob/main/Not%20normalized%20results%20-%20Assinment%202.png "Not normalized results - Assinment 2.png")<br/>
 Min - Max normalization were required. The results were as follows:<br/>
-![Normalized](https://github.com/homosapienssapiens/number-recognition/blob/main/Normalized%20results%20-%20Assinment%202.png "Normalized results - Assinment 2.png")
+![Normalized](https://github.com/homosapienssapiens/number-recognition/blob/main/Normalized%20results%20-%20Assinment%202.png "Normalized results - Assinment 2.png")<br/>
 The 98% accuracy could not be met. Other models may be needed to reach the required accuracy. 
